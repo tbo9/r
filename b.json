@@ -1,1 +1,7 @@
-{"name":"Kebab_Test1","ticker":"KEBAB","description":"Cardano Fan that tasted kebab in the pool","homepage":"https://kebabstakepool.com"}
+{
+  "name":"Burger Stake Pool",
+  "ticker":"BGR",
+  "description":"Cardano Fan that tasted burger in the pool",
+  "homepage":"https://burgerstakepool.com",
+  "extended":"https://https://raw.githubusercontent.com/tbo9/r/master/e.json"
+}
