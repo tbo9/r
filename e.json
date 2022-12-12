@@ -3,7 +3,7 @@
         "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/tbo9/r/master/Icon.png",
         "url_png_logo": "https://raw.githubusercontent.com/tbo9/r/master/Logo.png",
-        "location": "Yogyakarta, Indonesia",
+        "location": "Indonesia",
         "social": {
             "twitter_handle": "",
             "telegram_handle": "",
@@ -16,14 +16,14 @@
         "company": {
             "name": "BURGER STAKE POOL",
             "addr": "",
-            "city": "Yogyakarta",
+            "city": "",
             "country": "Indonesia",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
             "me": "Hi welcome my friends we are BURGER STAKE POOL. We provide pool and committed for longterm dezentralized Cardano ecosystem support.",
-            "server": "High Performance Dedicated Bare Metal Server in Yogyakarta-Indonesia, Telkom high-bandwidth, PLN energy powered",
+            "server": "Hybrid infrastructure High Performance Dedicated Bare Metal Server and High performance Cloud Relays",
             "company": ""
         }
     }
