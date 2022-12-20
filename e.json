@@ -3,7 +3,7 @@
         "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/tbo9/r/master/Icon.png",
         "url_png_logo": "https://raw.githubusercontent.com/tbo9/r/master/Logo.png",
-        "location": "",
+        "location": "Indonesia",
         "social": {
             "twitter_handle": "",
             "telegram_handle": "",
@@ -16,15 +16,15 @@
         "company": {
             "name": "BURGER STAKE POOL",
             "addr": "",
-            "city": "",
-            "country": "",
+            "city": "Special Region of Yogyakarta",
+            "country": "Indonesia",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "Hi welcome my friends we are BURGER STAKE POOL. We provide pool and committed for longterm dezentralized Cardano ecosystem support.",
-            "server": "Hybrid infrastructure High Performance Dedicated Bare Metal Server and High performance Cloud Relays",
-            "company": ""
+            "me": "Hi welcome my friends we are BURGER STAKE POOL. We provide pool and committed for long term dezentralized Cardano ecosystem support.",
+            "server": "P2P network, Hybrid infrastructure Dedicated Bare Metal Core Server and High performance secured encrypted traffic cloud relays.",
+            "company": "BURGER STAKE POOL"
         }
     }
 }
