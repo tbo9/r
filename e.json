@@ -5,10 +5,10 @@
         "url_png_logo": "https://raw.githubusercontent.com/tbo9/r/master/Logo.png",
         "location": "Indonesia",
         "social": {
-            "twitter_handle": "",
-            "telegram_handle": "",
-            "facebook_handle": "",
-            "youtube_handle": "",
+            "twitter_handle": "https://twitter.com/burgerstakepool",
+            "telegram_handle": "https://t.me/burgerstakepool",
+            "facebook_handle": "https://www.facebook.com/profile.php?id=100088597645975",
+            "youtube_handle": "https://www.youtube.com/@burgerstakepool",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": ""
@@ -23,7 +23,7 @@
         },
         "about": {
             "me": "Hi welcome my friends we are BURGER STAKE POOL. We provide pool and committed for long term decentralized Cardano ecosystem support.",
-            "server": "P2P network, Hybrid infrastructure Dedicated Bare Metal Core Server and high performance cloud relays.",
+            "server": "P2P network, Hybrid infrastructure Dedicated Bare Metal Core Server and relay.",
             "company": "BURGER STAKE POOL"
         }
     }
